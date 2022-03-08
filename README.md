@@ -1,4 +1,4 @@
-# Webscraping-with-python
+# Real estate website Webscraping-with-python
 - This is a personal project of mine in which I used the python BeautifulSoup library and HTML to web scrape data from a Malaysia well-known real estate website called i-Property. 
 
 - The purpose of this project is to gather crucial information such as rental price, agent contact number , rental area and square feet of properties in Kuala Lumpur
